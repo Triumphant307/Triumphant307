@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Usuangbon Triumphant]!
+# 👋 Hi there, I'm Usuangbon Triumphant!
 
 I'm a passionate and curious developer, currently focused on building full-stack web applications. I'm especially into PHP and have been learning how to create dynamic, secure, and user-friendly systems.
 
