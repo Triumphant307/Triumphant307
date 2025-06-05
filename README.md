@@ -29,7 +29,7 @@ I'm a passionate and curious developer, currently focused on building full-stack
 Feel free to reach out, collaborate, or just say hi!
 
 - ✉️ Email: usuangbontriumphant@gmail.com
-- 💼 LinkedIn: linkedin.com/in/usuangbon-triumphant
+- 💼 LinkedIn: https://www.linkedin.com/in/usuangbon-triumphant/
 
 ---
 
