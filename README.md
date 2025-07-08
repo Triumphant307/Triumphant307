@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Habit Spark](habit-spark.vercel.app)
+- 🔭 I’m currently working on [Habit Spark](habit-spark.vercel.app) 
 
 - 🌱 I’m currently learning **React.js for advanced frontend Dev with Typescript**
 
